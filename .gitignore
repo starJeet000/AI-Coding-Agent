@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Environment Variables
+.env
+
+# Target Application & Dependencies
+target_repo/
+__pycache__/
+*.pyc
